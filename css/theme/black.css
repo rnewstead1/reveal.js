@@ -104,7 +104,9 @@ body {
   list-style-type: disc; }
 
 .reveal ul ul {
-  list-style-type: square; }
+  list-style-type: none;
+  font-size: 60%;
+  color: lightblue; }
 
 .reveal ul ul ul {
   list-style-type: circle; }
